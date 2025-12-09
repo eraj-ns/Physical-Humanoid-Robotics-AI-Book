@@ -1,0 +1,184 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-fbe": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-b14": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/collisions-691": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-collisionsa-11-736"
+  },
+  "/docs/tags/digital-twin-d18": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-digital-twina-5-c-a79"
+  },
+  "/docs/tags/gazebo-a4c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-gazebo-147-8e6"
+  },
+  "/docs/tags/physics-134": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-physics-96-a-797"
+  },
+  "/docs/tags/ros-2-361": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-ros-2727-eb9"
+  },
+  "/docs/tags/sdf-2fe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-sdf-145-9e7"
+  },
+  "/docs/tags/urdf-f09": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-urdffb-6-8dc"
+  },
+  "/docs-252": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/Module1/-5f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-922-ffc"
+  },
+  "/docs/Module1/ch01-ros2-architecture-eb1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ch-01-ros-2-architecture-54-e-31b"
+  },
+  "/docs/Module1/ch02-nodes-topics-services-4e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ch-02-nodes-topics-services-7-b-7-fb1"
+  },
+  "/docs/Module1/ch03-python-agents-rclpy-e03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ch-03-python-agents-rclpy-901-3c2"
+  },
+  "/docs/Module1/ch04-urdf-for-humanoids-9b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ch-04-urdf-for-humanoids-5-e-8-cdc"
+  },
+  "/docs/Module1/intro-1d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-intro-22-c-36c"
+  },
+  "/docs/Module2/-312": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-e-5-c-481"
+  },
+  "/docs/Module2/ch01-gazebo-physics-and-collisions-4e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-ch-01-gazebo-physics-and-collisionsb-29-6fe"
+  },
+  "/docs/Module2/ch02-digital-twin-environment-design-576": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-ch-02-digital-twin-environment-design-2-a-2-f4d"
+  },
+  "/docs/Module2/intro-97b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-intro-6-c-5-ba7"
+  },
+  "/docs/Module3/-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ed-5-1d0"
+  },
+  "/docs/Module3/Introduction-to-AI-Robot-Brain-344": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-introduction-to-ai-robot-brain-56-b-d71"
+  },
+  "/docs/Module3/Isaac-ROS-VSLAM-and-Nav2-Planning-47f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-ros-vslam-and-nav-2-planningf-9-f-9f9"
+  },
+  "/docs/Module3/Isaac-Sim-Simulation-ebb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-sim-simulation-51-e-e76"
+  },
+  "/docs/Module4/-f0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-300-6d0"
+  },
+  "/docs/Module4/ch01-voice-to-action-be2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-ch-01-voice-to-action-9-dd-4c9"
+  },
+  "/docs/Module4/ch02-llm-cognitive-planning-9d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-ch-02-llm-cognitive-planning-3-ba-ada"
+  },
+  "/docs/Module4/ch03-vision-and-navigation-152": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-ch-03-vision-and-navigation-302-67e"
+  },
+  "/docs/Module4/ch04-capstone-autonomous-humanoid-5b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-ch-04-capstone-autonomous-humanoidcc-0-d2d"
+  },
+  "/docs/Module4/intro-da8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-intro-586-5d2"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

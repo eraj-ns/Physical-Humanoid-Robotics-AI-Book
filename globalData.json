@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Module1/intro",
+          "docs": [
+            {
+              "id": "Module1/ch01-ros2-architecture",
+              "path": "/docs/Module1/ch01-ros2-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/ch02-nodes-topics-services",
+              "path": "/docs/Module1/ch02-nodes-topics-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/ch03-python-agents-rclpy",
+              "path": "/docs/Module1/ch03-python-agents-rclpy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/ch04-urdf-for-humanoids",
+              "path": "/docs/Module1/ch04-urdf-for-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/intro",
+              "path": "/docs/Module1/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/module1",
+              "path": "/docs/Module1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/ch01-gazebo-physics-and-collisions",
+              "path": "/docs/Module2/ch01-gazebo-physics-and-collisions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/ch02-digital-twin-environment-design",
+              "path": "/docs/Module2/ch02-digital-twin-environment-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/intro",
+              "path": "/docs/Module2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/module2",
+              "path": "/docs/Module2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Introduction-to-AI-Robot-Brain",
+              "path": "/docs/Module3/Introduction-to-AI-Robot-Brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Isaac-ROS-VSLAM-and-Nav2-Planning",
+              "path": "/docs/Module3/Isaac-ROS-VSLAM-and-Nav2-Planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Isaac-Sim-Simulation",
+              "path": "/docs/Module3/Isaac-Sim-Simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/module3",
+              "path": "/docs/Module3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/ch01-voice-to-action",
+              "path": "/docs/Module4/ch01-voice-to-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/ch02-llm-cognitive-planning",
+              "path": "/docs/Module4/ch02-llm-cognitive-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/ch03-vision-and-navigation",
+              "path": "/docs/Module4/ch03-vision-and-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/ch04-capstone-autonomous-humanoid",
+              "path": "/docs/Module4/ch04-capstone-autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/intro",
+              "path": "/docs/Module4/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module4/module4",
+              "path": "/docs/Module4/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Module1/intro",
+                "label": "Module1/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
